@@ -94,5 +94,7 @@ Como objetivo técnico inicial, el peso transferido en la primera carga de la p�
 
 - [Investigación, persona, user flow y sitemap (FigJam)](https://www.figma.com/board/pzA1Icv7SfQCwVgC9IZSlG/User-flow--User-person-y-SiteMap?node-id=0-1&t=paBk811AvBpZvz0z-1)
 - [Wireframes del proyecto (Figma Design)](https://www.figma.com/design/vVABDLa5WE39g6ro31ITc6/WireFrame-Memento?node-id=0-1&t=9XetLVAGtd48GO4d-1)
+- [Presentación del prototipo del Wireframe en modo escritorio](https://www.figma.com/proto/vVABDLa5WE39g6ro31ITc6/WireFrame-Memento?node-id=2-3&p=f&t=jgIx4yVLZYCogAlu-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3)
+- [Presentación del prototipo del Wireframe  en modo móvil](https://www.figma.com/proto/vVABDLa5WE39g6ro31ITc6/WireFrame-Memento?node-id=155-27&p=f&t=YuL5FKkigfJSVz0T-1&scaling=scale-down&content-scaling=fixed&page-id=155%3A22&starting-point-node-id=155%3A27)
 - [README del proyecto](README.md)
-- [Registro de cambios y uso de IA](CHANGELOG.md)
+- [BRIEF - Registro de cambios y uso de IA](CHANGELOG.md)
