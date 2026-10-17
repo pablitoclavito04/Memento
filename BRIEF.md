@@ -97,4 +97,4 @@ Como objetivo técnico inicial, el peso transferido en la primera carga de la p�
 - [Presentación del prototipo del Wireframe en modo escritorio](https://www.figma.com/proto/vVABDLa5WE39g6ro31ITc6/WireFrame-Memento?node-id=2-3&p=f&t=jgIx4yVLZYCogAlu-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3)
 - [Presentación del prototipo del Wireframe  en modo móvil](https://www.figma.com/proto/vVABDLa5WE39g6ro31ITc6/WireFrame-Memento?node-id=155-27&p=f&t=YuL5FKkigfJSVz0T-1&scaling=scale-down&content-scaling=fixed&page-id=155%3A22&starting-point-node-id=155%3A27)
 - [README del proyecto](README.md)
-- [BRIEF - Registro de cambios y uso de IA](CHANGELOG.md)
+- [CHANGELOG - Registro de cambios y uso de IA](CHANGELOG.md)
